@@ -12,7 +12,7 @@ I'm duanfei:
 - 🏃 **favourite :** A passion for [running](https://run.duanfei.org/)
 
 <!--START_SECTION:my_kindle-->
-#### I have read 14 books this year
+#### I have read 8 books this year
 
 | ID | Title | Authors | Date | 
  | ---- | ---- | ---- | ---- |
