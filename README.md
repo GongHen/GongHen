@@ -26,11 +26,11 @@ I'm GongHen:
 | 9 | [脑与意识：破解人类思维之迷](https://www.amazon.cn/dp/B07K6GV2W1) | 斯坦尼斯拉斯·迪昂 | 2022-02-10 |
 | 8 | [GEB](https://book.douban.com/subject/1291204/) | 侯世达 | 2022-01-10 |
 | 7 | [费曼物理学讲义](https://www.feynmanlectures.caltech.edu/I_toc.html)| [美] Richard Feynman |2021-12-15|
-| 6 | [古今数学思想](https://www.amazon.cn/dp/B07H4DS155) | 莫里斯·克莱因 | 2022-12-01 |
-| 5 | [Linux内核源代码情景分析-上下册](https://book.douban.com/subject/1240321/) | 毛德操 / 胡希明 | 2022-11-10 |
-| 4 | [江村经济](https://book.douban.com/subject/1325507/) | 费孝通 | 2022-10-25 |
+| 6 | [古今数学思想](https://www.amazon.cn/dp/B07H4DS155) | 莫里斯·克莱因 | 2021-12-01 |
+| 5 | [Linux内核源代码情景分析-上下册](https://book.douban.com/subject/1240321/) | 毛德操 / 胡希明 | 2021-11-10 |
+| 4 | [江村经济](https://book.douban.com/subject/1325507/) | 费孝通 | 2021-10-25 |
 | 3 | [计算机程序的构造和解释(SICP)](https://book.douban.com/subject/1148282/)| [美] Harold Abelson |2021-10-02|
-| 2 | [编码：隐匿在计算机软硬件背后的语言](https://www.amazon.cn/dp/B08GC8288R) | 左飞,薛佟佟 | 2022-09-18 |
+| 2 | [编码：隐匿在计算机软硬件背后的语言](https://www.amazon.cn/dp/B08GC8288R) | 左飞,薛佟佟 | 2021-09-18 |
 | 1 | [黄金时代](https://book.douban.com/subject/1089243/)| 王小波 |2021-08-05|
 | 0 | [明朝那些事儿](https://book.douban.com/subject/7163250/)| 当年明月 |2021-07-05|
 
