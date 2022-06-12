@@ -12,11 +12,11 @@ I'm GongHen:
 - 🏃 **favourite :** A passion for [running](https://run.duanfei.org/)
 
 <!--START_SECTION:my_kindle-->
-#### I have read 17 books 
+#### I am reading 19th book 
 
 | ID | Title | Authors | Start Date | Finish Date|
 | ---- | ---- | ---- | ---- | ---- |
-| 17 | [流浪者之歌](https://book.douban.com/subject/26583318/) | [德]赫尔曼·黑塞 | 2022-06-10 |
+| 18 | [流浪者之歌](https://book.douban.com/subject/26583318/) | [德]赫尔曼·黑塞 | 2022-06-10 |
 | 17 | [荒原狼](https://book.douban.com/subject/2165037/) | [德]赫尔曼·黑塞 | 2022-06-8 |
 | 16 | [女生呵护指南](https://book.douban.com/subject/34462719/) | 六层楼 | 2022-05-25 |
 | 15 | [Java编程思想(第4版)](https://book.douban.com/subject/2130190/) | [美] Bruce Eckel | 2022-05-18 |
