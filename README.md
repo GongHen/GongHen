@@ -16,6 +16,7 @@ I'm GongHen:
 
 | ID | Title | Authors | Start Date | Finish Date|
 | ---- | ---- | ---- | ---- | ---- |
+| 23 | [基本乐理](https://book.douban.com/subject/3902787/) | 李重光 | 2022-09-24 |
 | 22 | [让我们灵魂激荡身体欢愉](https://book.douban.com/subject/34459741/) | 任黎明 | 2022-09-10 |
 | 21 | [CPU自制入门](https://book.douban.com/subject/25780703/) | [日] 水头一寿..| 2022-08-12 |
 | 20 | [费恩曼物理学讲义](https://book.douban.com/subject/24715603/) | [美] 费曼| 2022-08-22 |
