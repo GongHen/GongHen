@@ -9,13 +9,17 @@ I'm GongHen:
 - 🔭 **Working :** FPGA Engineer,Embedded Linux Engineer
 - 📖 **Learning :** Like [reading](https://www.douban.com/people/137566058/)
 - 🎮 **Playing :** [PlayStation](http://psnine.com/psnid/axmiao),[Steam](https://steamcommunity.com/id/duanf/),Nintendo Switch:`SW-1654-9155-6705`
-- 🏃 **favourite :** A passion for [running](https://run.duanfei.org/)
+- 🏃 **favourite :** A passion for [running](https://run.duanfei.org/),piano
 
 <!--START_SECTION:my_kindle-->
 #### I am reading 19th book 
 
 | ID | Title | Authors | Start Date | Finish Date|
 | ---- | ---- | ---- | ---- | ---- |
+| 22 | [让我们灵魂激荡身体欢愉](https://book.douban.com/subject/34459741/) | 任黎明 | 2022-09-10 |
+| 21 | [CPU自制入门](https://book.douban.com/subject/25780703/) | [日] 水头一寿..| 2022-08-12 |
+| 20 | [费恩曼物理学讲义](https://book.douban.com/subject/24715603/) | [美] 费曼| 2022-08-22 |
+| 19 | [Java编程思想](https://book.douban.com/subject/2130190/) | [美] Bruce Eckel | 2022-07-10 |
 | 18 | [流浪者之歌](https://book.douban.com/subject/26583318/) | [德]赫尔曼·黑塞 | 2022-06-10 |
 | 17 | [荒原狼](https://book.douban.com/subject/2165037/) | [德]赫尔曼·黑塞 | 2022-06-8 |
 | 16 | [女生呵护指南](https://book.douban.com/subject/34462719/) | 六层楼 | 2022-05-25 |
