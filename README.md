@@ -10,6 +10,12 @@ I'm GongHen:
 - 📖 **Learning :** Like [reading](https://www.douban.com/people/137566058/)
 - 🎮 **Playing :** [PlayStation](http://psnine.com/psnid/axmiao),[Steam](https://steamcommunity.com/id/duanf/),Nintendo Switch:`SW-1654-9155-6705`
 - 🏃 **favourite :** A passion for [running](https://run.duanfei.org/),piano
+- 🎆 永远对新技术有强烈的好奇心和探索欲
+- 💭 喜欢独立思考并与自己对话
+- ✍️ 喜欢写点东西，包括📚文字和💻代码
+- 🧠 善于发现分析问题但有时解决无力
+- 🛠️ 什么都会点但又不够精通的杂才
+- ☁️ 最喜欢的开源项目：Linux
 
 <!--START_SECTION:my_kindle-->
 #### I am reading 19th book 
