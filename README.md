@@ -27,7 +27,7 @@ I'm GongHen:
 | 20 | [费恩曼物理学讲义](https://book.douban.com/subject/24715603/) | [美] 费曼| 2022-08-22 |
 | 19 | [C++编程思想](https://book.douban.com/subject/6558198/) | [美] Bruce Eckel | 2022-07-10 |
 | 18 | [流浪者之歌](https://book.douban.com/subject/26583318/) | [德]赫尔曼·黑塞 | 2022-06-10 |
-| 17 | [荒原狼](https://book.douban.com/subject/2165037/) | [德]赫尔曼·黑塞 | 2022-06-8 |
+| 17 | [荒原狼](https://book.douban.com/subject/2165037/) | [德]赫尔曼·黑塞 | 2022-06-8 | 2023-01-20
 | 16 | [女生呵护指南](https://book.douban.com/subject/34462719/) | 六层楼 | 2022-05-25 |
 | 15 | [Java编程思想(第4版)](https://book.douban.com/subject/2130190/) | [美] Bruce Eckel | 2022-05-18 |
 | 14 | [哲学的慰藉](https://www.amazon.cn/dp/B00JM2HNVG) | 阿兰·德波顿(Alain de Botton) | 2022-05-01 |
