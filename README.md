@@ -20,6 +20,8 @@ I'm GongHen:
 
 | ID | Title | Authors | Start Date | Finish Date|
 | ---- | ---- | ---- | ---- | ---- |
+| 25| [C++ Primer plus第6版](https://github.com/ShujiaHuang/Cpp-Primer-Plus-6th) | [美] Stephen Prata | 2023-02-01 |  |
+| ---- | ---- | ---- | ---- | ---- |
 | 24 | [实用电子元器件与电路基础](https://book.douban.com/subject/3639214/) | [美]Paul Scherz | 2022-10-10 |
 | 23 | [基本乐理](https://book.douban.com/subject/3902787/) | 李重光 | 2022-09-24 |
 | 22 | [让我们灵魂激荡身体欢愉](https://book.douban.com/subject/34459741/) | 任黎明 | 2022-09-10 |
