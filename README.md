@@ -20,7 +20,8 @@ I'm GongHen:
 
 | ID | Title | Authors | Start Date | Finish Date|
 | ---- | ---- | ---- | ---- | ---- |
-| 25| [C++ Primer plus第6版](https://github.com/ShujiaHuang/Cpp-Primer-Plus-6th) | [美] Stephen Prata | 2023-02-01 |  |
+| 26| [信号完整性与电源完整性分析](https://book.douban.com/subject/26611643/) | [美] 伯格丁(Eric Bogatin) | 2023-02-01 |  |
+| 25| [C++ Primer plus第6版](https://github.com/ShujiaHuang/Cpp-Primer-Plus-6th) | [美] Stephen Prata | 2023-01-10 |  |
 | ---- | ---- | ---- | ---- | ---- |
 | 24 | [实用电子元器件与电路基础](https://book.douban.com/subject/3639214/) | [美]Paul Scherz | 2022-10-10 |
 | 23 | [基本乐理](https://book.douban.com/subject/3902787/) | 李重光 | 2022-09-24 |
@@ -38,6 +39,7 @@ I'm GongHen:
 | 11 | [存在主义咖啡馆](https://www.amazon.cn/dp/B07BNC4CDG) | 莎拉·贝克韦尔 | 2022-03-18 |
 | 10 | [回归故里](https://www.amazon.cn/dp/B08HYJNTXN) | 迪迪埃·埃里蓬 | 2022-03-11 |
 | 9 | [脑与意识：破解人类思维之迷](https://www.amazon.cn/dp/B07K6GV2W1) | 斯坦尼斯拉斯·迪昂 | 2022-02-10 |
+| ---- | ---- | ---- | ---- | ---- |
 | 8 | [GEB](https://book.douban.com/subject/1291204/) | 侯世达 | 2022-01-10 |
 | 7 | [费曼物理学讲义](https://www.feynmanlectures.caltech.edu/I_toc.html)| [美] Richard Feynman |2021-12-15|
 | 6 | [古今数学思想](https://www.amazon.cn/dp/B07H4DS155) | 莫里斯·克莱因 | 2021-12-01 |
