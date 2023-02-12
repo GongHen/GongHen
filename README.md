@@ -16,7 +16,7 @@ I'm GongHen:
 - ☁️ 最喜欢的开源项目：Linux
 
 <!--START_SECTION:my_kindle-->
-#### I am reading 24th book 
+#### I am reading 27th book 
 
 | ID | Title | Authors | Start Date | Finish Date|
 | ---- | ---- | ---- | ---- | ---- |
